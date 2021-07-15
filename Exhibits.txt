@@ -1,4 +1,6 @@
-"Scream" Munch 119992000 1893
-"Dream" Picasso 155000000 1932
-"Reading" Picasso 40700000 1932
-"Rabbit" Koons 91075000 1986
+p Tropic Kuimetra 876742 2020 modernism fashionable
+p Scream Munch 119992000 1893 expressionism unfashionable
+s Head Modiliani 70700000 1912 stone
+p Dream Picasso 155000000 1932 surrealism fashionable
+s Rabbit Koons 91075000 1986 steel
+s Spiders Bourgeois 28160000 1997 bronze
