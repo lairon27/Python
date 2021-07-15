@@ -1,0 +1,4 @@
+Puma 13 80 30000
+Giraffe 25 60 90000
+Cheetah 12 115 7100
+Elephant 70 30 500000
