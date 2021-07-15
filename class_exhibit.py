@@ -25,7 +25,7 @@ class Exhibit:
 l = []
 def file_read():
     try:
-        with open('Exhibits.txt', 'r') as f:
+        with open('Exhibits1.txt', 'r') as f:
             for line in f:
                 n, a, p, d = line.split()
                 l.append(Exhibit(n, a, float(p), int(d)))
